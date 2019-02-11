@@ -1,0 +1,301 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-19 13:50:34 #1 store] 
+Database 'C:\Users\aitor\git\Bets\resources\bets.temp' is opened by 3780@Aitor
+
+[2018-03-19 13:50:34 #2 type.registry] 
+New type domain.User
+
+[2018-03-19 13:50:34 #3 type] 
+Type domain.User is not enhanced.
+
+[2018-03-19 13:50:34 #4 type.registry] 
+New type domain.Question
+
+[2018-03-19 13:50:34 #5 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-19 13:50:34 #6 type.registry] 
+New type domain.Event
+
+[2018-03-19 13:50:34 #7 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-19 13:50:34 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-03-19 13:50:34 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-19 14:14:14 #1 store] 
+Database 'C:\Users\aitor\git\Bets\resources\bets.temp' is opened by 3292@Aitor
+
+[2018-03-19 14:14:14 #2 type.registry] 
+New type domain.User
+
+[2018-03-19 14:14:14 #3 type] 
+Type domain.User is not enhanced.
+
+[2018-03-19 14:14:14 #4 type.registry] 
+New type domain.Question
+
+[2018-03-19 14:14:14 #5 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-19 14:14:14 #6 type.registry] 
+New type domain.Event
+
+[2018-03-19 14:14:14 #7 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-19 14:14:14 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-03-19 14:14:14 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-19 14:18:56 #1 store] 
+Database 'C:\Users\aitor\git\Bets\resources\bets.temp' is opened by 10272@Aitor
+
+[2018-03-19 14:18:56 #2 type.registry] 
+New type domain.User
+
+[2018-03-19 14:18:56 #3 type] 
+Type domain.User is not enhanced.
+
+[2018-03-19 14:18:56 #4 type.registry] 
+New type domain.Question
+
+[2018-03-19 14:18:56 #5 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-19 14:18:56 #6 type.registry] 
+New type domain.Event
+
+[2018-03-19 14:18:56 #7 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-19 14:18:56 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-03-19 14:18:56 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-19 14:20:40 #1 store] 
+Database 'C:\Users\aitor\git\Bets\resources\bets.temp' is opened by 4296@Aitor
+
+[2018-03-19 14:20:40 #2 type.registry] 
+New type domain.User
+
+[2018-03-19 14:20:40 #3 type] 
+Type domain.User is not enhanced.
+
+[2018-03-19 14:20:40 #4 type.registry] 
+New type domain.Question
+
+[2018-03-19 14:20:40 #5 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-19 14:20:40 #6 type.registry] 
+New type domain.Event
+
+[2018-03-19 14:20:40 #7 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-19 14:20:40 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-03-19 14:20:40 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-19 14:25:44 #1 store] 
+Database 'C:\Users\aitor\git\Bets\resources\bets.temp' is opened by 12824@Aitor
+
+[2018-03-19 14:25:44 #2 type.registry] 
+New type domain.User
+
+[2018-03-19 14:25:44 #3 type] 
+Type domain.User is not enhanced.
+
+[2018-03-19 14:25:44 #4 type.registry] 
+New type domain.Question
+
+[2018-03-19 14:25:44 #5 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-19 14:25:44 #6 type.registry] 
+New type domain.Event
+
+[2018-03-19 14:25:44 #7 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-19 14:25:44 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-03-19 14:25:44 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-19 19:15:39 #1 store] 
+Database 'C:\Users\aitor\git\Bets\resources\bets.temp' is opened by 7696@Aitor
+
+[2018-03-19 19:15:39 #2 type.registry] 
+New type domain.User
+
+[2018-03-19 19:15:39 #3 type] 
+Type domain.User is not enhanced.
+
+[2018-03-19 19:15:39 #4 type.registry] 
+New type domain.Question
+
+[2018-03-19 19:15:39 #5 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-19 19:15:39 #6 type.registry] 
+New type domain.Event
+
+[2018-03-19 19:15:39 #7 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-19 19:15:39 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-03-19 19:15:39 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-19 19:25:08 #1 store] 
+Database 'C:\Users\aitor\git\Bets\resources\bets.temp' is opened by 900@Aitor
+
+[2018-03-19 19:25:08 #2 type.registry] 
+New type domain.User
+
+[2018-03-19 19:25:08 #3 type] 
+Type domain.User is not enhanced.
+
+[2018-03-19 19:25:08 #4 type.registry] 
+New type domain.Question
+
+[2018-03-19 19:25:08 #5 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-19 19:25:08 #6 type.registry] 
+New type domain.Event
+
+[2018-03-19 19:25:08 #7 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-19 19:25:08 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-03-19 19:25:08 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-19 19:28:26 #1 store] 
+Database 'C:\Users\aitor\git\Bets\resources\bets.temp' is opened by 4080@Aitor
+
+[2018-03-19 19:28:26 #2 type.registry] 
+New type domain.User
+
+[2018-03-19 19:28:26 #3 type] 
+Type domain.User is not enhanced.
+
+[2018-03-19 19:28:26 #4 type.registry] 
+New type domain.Question
+
+[2018-03-19 19:28:26 #5 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-19 19:28:26 #6 type.registry] 
+New type domain.Event
+
+[2018-03-19 19:28:26 #7 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-19 19:28:26 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-03-19 19:28:26 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-19 19:30:26 #1 store] 
+Database 'C:\Users\aitor\git\Bets\resources\bets.temp' is opened by 12472@Aitor
+
+[2018-03-19 19:30:27 #2 type.registry] 
+New type domain.User
+
+[2018-03-19 19:30:27 #3 type] 
+Type domain.User is not enhanced.
+
+[2018-03-19 19:30:27 #4 type.registry] 
+New type domain.Question
+
+[2018-03-19 19:30:27 #5 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-19 19:30:27 #6 type.registry] 
+New type domain.Event
+
+[2018-03-19 19:30:27 #7 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-19 19:30:27 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-03-19 19:30:27 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-19 19:34:47 #1 store] 
+Database 'C:\Users\aitor\git\Bets\resources\bets.temp' is opened by 1220@Aitor
+
+[2018-03-19 19:34:47 #2 type.registry] 
+New type domain.User
+
+[2018-03-19 19:34:48 #3 type] 
+Type domain.User is not enhanced.
+
+[2018-03-19 19:34:48 #4 type.registry] 
+New type domain.Question
+
+[2018-03-19 19:34:48 #5 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-19 19:34:48 #6 type.registry] 
+New type domain.Event
+
+[2018-03-19 19:34:48 #7 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-19 19:34:48 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-03-19 19:34:48 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-19 19:38:52 #1 store] 
+Database 'C:\Users\aitor\git\Bets\resources\bets.temp' is opened by 4684@Aitor
+
+[2018-03-19 19:38:53 #2 type.registry] 
+New type domain.User
+
+[2018-03-19 19:38:53 #3 type] 
+Type domain.User is not enhanced.
+
